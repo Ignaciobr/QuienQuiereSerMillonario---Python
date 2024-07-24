@@ -1,0 +1,182 @@
+[
+    {
+        "premio": "100",
+        "pregunta": "¿Cuál es la capital de Francia?",
+        "opciones": ["Madrid", "París", "Londres", "Roma"],
+        "respuesta_correcta": "París"
+    },
+    {
+        "premio": "100",
+        "pregunta": "¿Qué es el Sol?",
+        "opciones": ["Un planeta", "Una estrella", "Una luna", "Un asteroide"],
+        "respuesta_correcta": "Una estrella"
+    },
+    {
+        "premio": "200",
+        "pregunta": "¿Quién escribió 'Don Quijote de la Mancha'?",
+        "opciones": ["Gabriel García Márquez", "Miguel de Cervantes", "William Shakespeare", "Julio Cortázar"],
+        "respuesta_correcta": "Miguel de Cervantes"
+    },
+    {
+        "premio": "200",
+        "pregunta": "¿Cuál es el océano más grande del mundo?",
+        "opciones": ["Atlántico", "Pacífico", "Índico", "Ártico"],
+        "respuesta_correcta": "Pacífico"
+    },
+    {
+        "premio": "300",
+        "pregunta": "¿Cuál es el río más largo del mundo?",
+        "opciones": ["Amazonas", "Nilo", "Mississippi", "Yangtsé"],
+        "respuesta_correcta": "Amazonas"
+    },
+    {
+        "premio": "300",
+        "pregunta": "¿Cuál es la capital de Japón?",
+        "opciones": ["Pekín", "Seúl", "Tokio", "Bangkok"],
+        "respuesta_correcta": "Tokio"
+    },
+    {
+        "premio": "500",
+        "pregunta": "¿Qué país tiene la mayor población del mundo?",
+        "opciones": ["China", "India", "Estados Unidos", "Brasil"],
+        "respuesta_correcta": "China"
+    },
+    {
+        "premio": "500",
+        "pregunta": "¿Cuál es el país más grande del mundo?",
+        "opciones": ["Canadá", "China", "Estados Unidos", "Rusia"],
+        "respuesta_correcta": "Rusia"
+    },
+    {
+        "premio": "1000",
+        "pregunta": "¿Cuál es el lenguaje de programación más utilizado?",
+        "opciones": ["Python", "Java", "C++", "C#"],
+        "respuesta_correcta": "Python"
+    },
+    {
+        "premio": "1000",
+        "pregunta": "¿Cuál es el deporte más popular del mundo?",
+        "opciones": ["Fútbol", "Baloncesto", "Críquet", "Tenis"],
+        "respuesta_correcta": "Fútbol"
+    },
+    {
+        "premio": "2000",
+        "pregunta": "¿Quién pintó la Mona Lisa?",
+        "opciones": ["Leonardo da Vinci", "Vincent van Gogh", "Pablo Picasso", "John Romita"],
+        "respuesta_correcta": "Leonardo da Vinci"
+    },
+    {
+        "premio": "2000",
+        "pregunta": "¿Cuál es el idioma más hablado en el mundo?",
+        "opciones": ["Español", "Inglés", "Chino Mandarín", "Hindú"],
+        "respuesta_correcta": "Chino Mandarín"
+    },
+    {
+        "premio": "4000",
+        "pregunta": "¿Cuál es el continente más grande?",
+        "opciones": ["Asia", "África", "América", "Europa"],
+        "respuesta_correcta": "Asia"
+    },
+    {
+        "premio": "4000",
+        "pregunta": "¿Cuál es el metal más abundante en la Tierra?",
+        "opciones": ["Hierro", "Aluminio", "Cobre", "Plata"],
+        "respuesta_correcta": "Aluminio"
+    },
+    {
+        "premio": "8000",
+        "pregunta": "¿Cuál es el elemento químico con símbolo 'O'?",
+        "opciones": ["Oxígeno", "Oro", "Osmio", "Oxy"],
+        "respuesta_correcta": "Oxígeno"
+    },
+    {
+        "premio": "8000",
+        "pregunta": "¿Cuál es el país con la mayor superficie de bosque?",
+        "opciones": ["Brasil", "Rusia", "Canadá", "Estados Unidos"],
+        "respuesta_correcta": "Rusia"
+    },
+    {
+        "premio": "16000",
+        "pregunta": "¿Cuál es el planeta más cercano al sol?",
+        "opciones": ["Mercurio", "Venus", "Tierra", "Marte"],
+        "respuesta_correcta": "Mercurio"
+    },
+    {
+        "premio": "16000",
+        "pregunta": "¿Cuál es la capital de Australia?",
+        "opciones": ["Sídney", "Melbourne", "Brisbane", "Canberra"],
+        "respuesta_correcta": "Canberra"
+    },
+    {
+        "premio": "32000",
+        "pregunta": "¿En qué año comenzó la Segunda Guerra Mundial?",
+        "opciones": ["1914", "1939", "1945", "1929"],
+        "respuesta_correcta": "1939"
+    },
+    {
+        "premio": "32000",
+        "pregunta": "¿Cuál es el país más pequeño del mundo?",
+        "opciones": ["Mónaco", "Nauru", "Vaticano", "San Marino"],
+        "respuesta_correcta": "Vaticano"
+    },
+    {
+        "premio": "64000",
+        "pregunta": "¿Quién desarrolló la teoría de la relatividad?",
+        "opciones": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Nikola Tesla"],
+        "respuesta_correcta": "Albert Einstein"
+    },
+    {
+        "premio": "64000",
+        "pregunta": "¿Cuál es el órgano más grande del cuerpo humano?",
+        "opciones": ["Corazón", "Hígado", "Piel", "Cerebro"],
+        "respuesta_correcta": "Piel"
+    },
+    {
+        "premio": "125000",
+        "pregunta": "¿Cuál es el animal terrestre más rápido?",
+        "opciones": ["León", "Guepardo", "Tigre", "Caballo"],
+        "respuesta_correcta": "Guepardo"
+    },
+    {
+        "premio": "125000",
+        "pregunta": "¿Cuál es el lago más profundo del mundo?",
+        "opciones": ["Tanganica", "Victoria", "Baikal", "Superior"],
+        "respuesta_correcta": "Baikal"
+    },
+    {
+        "premio": "250000",
+        "pregunta": "¿Cuál es el océano más grande del mundo?",
+        "opciones": ["Atlántico", "Pacífico", "Índico", "Ártico"],
+        "respuesta_correcta": "Pacífico"
+    },
+    {
+        "premio": "250000",
+        "pregunta": "¿Cuál es el desierto más grande del mundo?",
+        "opciones": ["Sahara", "Gobi", "Antártico", "Kalahari"],
+        "respuesta_correcta": "Antártico"
+    },
+    {
+        "premio": "500000",
+        "pregunta": "¿Cuál es el principal gas de la atmósfera terrestre?",
+        "opciones": ["Oxígeno", "Hidrógeno", "Nitrógeno", "Dióxido de carbono"],
+        "respuesta_correcta": "Nitrógeno"
+    },
+    {
+        "premio": "500000",
+        "pregunta": "¿Cuál es la montaña más alta del mundo?",
+        "opciones": ["K2", "Kangchenjunga", "Lhotse", "Everest"],
+        "respuesta_correcta": "Everest"
+    },
+    {
+        "premio": "1000000",
+        "pregunta": "¿Cuál es el país más grande del mundo?",
+        "opciones": ["Canadá", "China", "Estados Unidos", "Rusia"],
+        "respuesta_correcta": "Rusia"
+    },
+    {
+        "premio": "1000000",
+        "pregunta": "¿Cuál es la capital de Egipto?",
+        "opciones": ["El Cairo", "Alejandría", "Luxor", "Giza"],
+        "respuesta_correcta": "El Cairo"
+    }
+]
