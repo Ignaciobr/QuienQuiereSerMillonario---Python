@@ -43,3 +43,8 @@ El proyecto incluye lógica de preguntas, sistema de vidas (comodines), temporiz
 ## 🎯 Objetivo del proyecto
 
 Aplicar conceptos de programación como estructuras de datos, lógica de eventos y desarrollo de interfaces.
+
+
+## 🎥 Demo en video
+
+[![Ver demo](https://img.youtube.com/vi/tiP2cMRp7PY/0.jpg)](https://www.youtube.com/watch?v=tiP2cMRp7PY)
